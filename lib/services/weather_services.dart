@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 
 class WeatherServices {
-  final String apiKey = '1270b24b858577f20763a85f9c3cb164';
+  final String apiKey = 'your API key from OpenWeather';
 
   Future<WeatherApp?> fetchWeather(String cityName) async {
     final url = Uri.parse(
