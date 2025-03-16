@@ -7,4 +7,4 @@ To run this project, make sure you have the following installed:
 Flutter SDK
 Dart
 Android Studio / VS Code (or any preferred IDE)
-Your oens OpenWeather api key
+Your owns OpenWeather api key
